@@ -9,5 +9,5 @@ My solution explored using several variable selection techniques: stepwise, back
 Files included in repository:
 
 moneyball.csv -- Training data set                                                                                                    
-moneyball_test.csv -- Holdout data set
+moneyball_test.csv -- Holdout data set                                                                                                         
 Kim_Kaminsky_HW1_R.R -- R code used to analyze data and create models
